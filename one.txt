@@ -1,7 +1,15 @@
+function toggle(flag) {
+    return !flag;
+}
+
 function add(a, b) {
     return a + b;
 }
-this is new change from my side.
-function  diva,b){
-    return a/b;
+
+function  div(a,b){
+    return a / b;
+}
+
+function subtract(a,b){
+    return a - b;
 }
