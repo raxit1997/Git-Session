@@ -1,6 +1,7 @@
 function add(a, b) {
     return a + b;
 }
-
-i'm working on raxit's repo
-post this i will push my changes to the remote repo
+this is new change from my side.
+function  diva,b){
+    return a/b;
+}
