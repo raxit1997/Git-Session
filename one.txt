@@ -9,3 +9,6 @@ function  newpage(a,b){
 function mul (a,b) {
     return a * b;
 }
+function isEven(a) {
+    return a % 2 === 0;
+}
